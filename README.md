@@ -8,6 +8,21 @@ decision in an **audit log**, and lets creators **appeal** a classification.
 > [`planning.md`](planning.md) is the authoritative specification. This README
 > tracks implementation status and validation results.
 
+## Demo video
+
+**How AI Text Detection Can Fail** — a short end-to-end walkthrough: three-zone
+classification, one correct call, one root-caused false positive, and the
+appeal + audit-log recourse. Spoken script in [`demo-script.md`](demo-script.md).
+
+<div>
+    <a href="https://www.loom.com/share/8aef3b485d3b4324928ca33a252d14c8">
+      <p>How AI Text Detection Can Fail - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/8aef3b485d3b4324928ca33a252d14c8">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8aef3b485d3b4324928ca33a252d14c8-f692c83bd56bf482-full-play.gif#t=0.1">
+    </a>
+  </div>
+
 ## Status
 
 | Milestone | Scope | State |
@@ -32,7 +47,7 @@ decision in an **audit log**, and lets creators **appeal** a classification.
 | Known limitations | **Known limitations** |
 | Spec reflection | **Spec reflection** |
 | AI usage | **AI usage** |
-| Demo video walkthrough (script) | [`demo-script.md`](demo-script.md) |
+| Demo video (+ script) | **Demo video** · [`demo-script.md`](demo-script.md) |
 
 ## Setup & run
 
