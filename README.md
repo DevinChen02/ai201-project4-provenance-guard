@@ -29,7 +29,7 @@ appeal + audit-log recourse.
 |---|---|---|
 | M3 | `POST /submit`, Signal 1 (LLM), SQLite persistence, audit log, `GET /log` | ✅ done |
 | M4 | Signal 2 (stylometry) + confidence scoring combining both signals | ✅ done |
-| **M5** | **Transparency-label rendering, appeals (`POST /appeal`, `GET /review`), rate limiting** | ✅ **this milestone** |
+| **M5** | **Transparency-label rendering, appeals (`POST /appeal`, `GET /review`), rate limiting** | ✅ done |
 
 ## Submission checklist → where each piece lives
 
