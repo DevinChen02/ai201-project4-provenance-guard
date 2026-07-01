@@ -1,0 +1,12 @@
+# Secrets — never commit the Groq API key
+.env
+
+# Virtual environment
+.venv/
+
+# SQLite database (regenerated at runtime)
+*.db
+
+# Python caches
+__pycache__/
+*.py[cod]
