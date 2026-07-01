@@ -10,9 +10,9 @@ decision in an **audit log**, and lets creators **appeal** a classification.
 
 ## Demo video
 
-**How AI Text Detection Can Fail** — a short end-to-end walkthrough: three-zone
+A short end-to-end walkthrough: three-zone
 classification, one correct call, one root-caused false positive, and the
-appeal + audit-log recourse. Spoken script in [`demo-script.md`](demo-script.md).
+appeal + audit-log recourse. 
 
 <div>
     <a href="https://www.loom.com/share/8aef3b485d3b4324928ca33a252d14c8">
